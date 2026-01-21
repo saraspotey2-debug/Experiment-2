@@ -33,7 +33,7 @@ In Python, a list is a built-in data structure used to store multiple items in a
 # Algorithm-2
 1. Start
 2. Creating a list of student's marks and printing it
-3. displaying the highest and lowest marks using max() and min()
+3. Displaying the highest and lowest marks using max() and min()
 4. Calcuculating average marks by calculating the sum and then the lenght of the list and diplaying it
 5. Sorting the marks and displaying the updated list
 6. End
