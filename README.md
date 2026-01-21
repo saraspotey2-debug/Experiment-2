@@ -10,12 +10,12 @@ In Python, a list is a built-in data structure used to store multiple items in a
    Syntax- List[start:end:step]
    | Expression   | Result              |
    | ------------ | ------------------- |
-   | numbers[:]`    | Full list           |
-   | numbers[:3]`   | First 3 elements    |
-   | numbers[3:]`   | From index 3 to end |
-   | numbers[-3:]`  | Last 3 elements     |
-   | numbers[::2]`  | Every 2nd element   |
-   | numbers[::-1]` | Reverse list        |
+   | numbers[:]    | Full list           |
+   | numbers[:3]   | First 3 elements    |
+   | numbers[3:]   | From index 3 to end |
+   | numbers[-3:]  | Last 3 elements     |
+   | numbers[::2]  | Every 2nd element   |
+   | numbers[::-1] | Reverse list        |
 6. Adding element in the list using append- To add a element at the back we use append. Example- numbers.append(6).
 7. Adding element in the list using slicing- To add a element at a particular position we type its index also and use insert. Example- numbers.insert(1,6).
 8. Replacing an element-To replace one element by another.Example- numbers[1]=6.
