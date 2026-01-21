@@ -22,22 +22,20 @@ In Python, a list is a built-in data structure used to store multiple items in a
 9. Combining two list- Two lists can be combined by using extend. Example- list1.extend(list2).
 10. Removing the element from the list- Example- numbers.remove(3).
 11. Sorting the list- Example- names.sort().
-12. Other operations in list- max()- gives the maximum value from the elements of the list.
-13.                           min()-gives the minimum value from the elements of the list.
-14.                           sum()- gives the total sum of the elements.
-15. # Algorithm-1
-16. 1. Start
-    2. Creating a list of student names and displaying it
-    3. Displaying the first and last name
-    4. Removing one name from the list and diaplsying list
-    5. Sorting the names and printing the list
-    6. End
-    # Algorithm-2
-    1. Start
-    2. Creating a list of student's marks and printing it
-    3. displaying the highest and lowest marks using max() and min()
-    4. Calcuculating average marks by calculating the sum and then the lenght of the list and diplaying it
-    5. Sorting the marks and displaying the updated list
-    6. End
-    # Conclusion
+12. Other operations in list- max()- gives the maximum value from the elements of the list, min()-gives the minimum value from the elements of the list, sum()-  gives the total sum of the elements.
+# Algorithm-1 
+1. Start
+2. Creating a list of student names and displaying it
+3. Displaying the first and last name
+4. Removing one name from the list and diaplsying list
+5. Sorting the names and printing the list
+6. End
+# Algorithm-2
+1. Start
+2. Creating a list of student's marks and printing it
+3. displaying the highest and lowest marks using max() and min()
+4. Calcuculating average marks by calculating the sum and then the lenght of the list and diplaying it
+5. Sorting the marks and displaying the updated list
+6. End
+# Conclusion
 A list in Python is one of the most important and commonly used data structures.Lists can hold different types of data and support many operations such as indexing, slicing, adding, removing, and modifying elements. Because of their flexibility, simplicity, and wide range of built-in methods, lists are very useful for tasks like data storage, processing, and iteration. Overall, lists make programming easier and more efficient when working with collections of data.
