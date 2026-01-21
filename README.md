@@ -17,7 +17,7 @@ In Python, a list is a built-in data structure used to store multiple items in a
    | numbers[::2]  | Every 2nd element   |
    | numbers[::-1] | Reverse list        |
 6. Adding element in the list using append- To add a element at the back we use append. Example- numbers.append(6)-will add 6 in the list.
-7. Adding element in the list using slicing- To add a element at a particular position we type its index also and use insert. Example- numbers.insert(1,6)-will add 6 at the index 1.
+7. Adding element in the list using slicing- To add a element at a particular position we type its index also and use insert. Example- numbers.insert(1,6)-will add 6 at the index position 1.
 8. Replacing an element-To replace one element by another.Example- numbers[1]=6.
 9. Combining two list- Two lists can be combined by using extend. Example- list1.extend(list2).
 10. Removing the element from the list- Example- numbers.remove(3)- will remove element 3 from the list.
