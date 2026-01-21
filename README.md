@@ -25,9 +25,9 @@ In Python, a list is a built-in data structure used to store multiple items in a
 12. Other operations in list- max()- gives the maximum value from the elements of the list, min()-gives the minimum value from the elements of the list, sum()-  gives the total sum of the elements.
 # Algorithm-1 
 1. Start
-2. Creating a list of student names and displaying it
+2. Creating a list of student's names and displaying it
 3. Displaying the first and last name
-4. Removing one name from the list and diaplsying list
+4. Removing one name from the list and displaying list
 5. Sorting the names and printing the list
 6. End
 # Algorithm-2
