@@ -3,8 +3,8 @@
 # Theory
 In Python, a list is a built-in data structure used to store multiple items in a single variable. It is ordered, mutable (changeable), and can contain different data types. Elements can be duplicated in the list.
 1. Creating list- To create a list we use square brackets. Example- numbers=[1,2,3,4,5].
-2. Accessing list- print(name_of_the_list). Example- print(numbers[4])-will give 5th element of list as indexing starts from 0.
-3. Accessing elements of list- To print only a particular elemnet. Example- numbers.
+2. Accessing list- print(name_of_the_list). Example- print(numbers)
+3. Accessing elements of list- To print only a particular elemnet. Example-print(numbers[4])-will give 5th element of list as indexing starts from 0.
 4. Lenght of the list- To find the number of elements present in the list is the lenght of the list. Example- print(len(numbers)).
 5. Slicing in python- List slicing in Python is used to extract a part from a list.
    Syntax- List[start:end:step]
