@@ -1,5 +1,5 @@
 # Experiment-2
-# AIM- Study of List
+# Aim- Study of List
 # Theory
 In Python, a list is a built-in data structure used to store multiple items in a single variable. It is ordered, mutable (changeable), and can contain different data types. Elements can be duplicated in the list.
 1. Creating list- To create a list we use square brackets. Example- numbers=[1,2,3,4,5].
